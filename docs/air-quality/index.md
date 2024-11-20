@@ -3,6 +3,7 @@
 ![Hopsworks Logo](../titanic/assets/img/logo.png)
 
 {% include air-quality.html %}
+
 Model prediction for the city of Rouen in France
 ![Forecast](./assets/img/pm25_forecast.png)
 
