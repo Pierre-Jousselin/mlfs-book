@@ -3,15 +3,14 @@
 ![Hopsworks Logo](../titanic/assets/img/logo.png)
 
 {% include air-quality.html %}
-
+Model prediction for the city of Rouen in France
 ![Forecast](./assets/img/pm25_forecast.png)
 
 
-There is also a Python program to interact with the air quality ML system using language (text, voice),
-powered by a [function-calling LLM](https://www.hopsworks.ai/dictionary/function-calling-with-llms).
+
 
 # Model Performance Monitoring
-
+Model performance evaluation with the comparaison bewteen predictions and outcomes
 1-Day Hindcast: Predictions vs Outcomes
 
 ![Hindcast](./assets/img/pm25_hindcast_1day.png)
